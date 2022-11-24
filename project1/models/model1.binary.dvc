@@ -1,0 +1,4 @@
+outs:
+- md5: 1a487e802e65f63807ec7a8b9fe2382e
+  size: 5120
+  path: model1.binary
