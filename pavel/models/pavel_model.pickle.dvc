@@ -1,4 +1,4 @@
 outs:
-- md5: 5346bd0a84b9cbf9f9ea7911ca7458d0
+- md5: 74eccba64a9cae45e05cef779b6ba7ed
   size: 54
   path: pavel_model.pickle
