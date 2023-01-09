@@ -1,0 +1,4 @@
+outs:
+- md5: c094c810b34322be5286383e3289c3d3
+  size: 30720
+  path: filename.binary
